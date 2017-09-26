@@ -41,6 +41,46 @@ namespace KitchenFinks
 			}
 		}
 		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f040003
+			public const int Add10MinButton = 2130968579;
+			
+			// aapt resource value: 0x7f040005
+			public const int Add10SecButton = 2130968581;
+			
+			// aapt resource value: 0x7f040004
+			public const int Add1MinButton = 2130968580;
+			
+			// aapt resource value: 0x7f040006
+			public const int Add1SecButton = 2130968582;
+			
+			// aapt resource value: 0x7f040008
+			public const int ClearButton = 2130968584;
+			
+			// aapt resource value: 0x7f040000
+			public const int RemainingTimeTextView = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int StartButton = 2130968577;
+			
+			// aapt resource value: 0x7f040002
+			public const int linearLayout1 = 2130968578;
+			
+			// aapt resource value: 0x7f040007
+			public const int relativeLayout1 = 2130968583;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
 		public partial class Layout
 		{
 			
